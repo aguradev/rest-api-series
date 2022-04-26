@@ -66,4 +66,4 @@ cara traveloka dapat data 3 perusahaan tersebut karena menyediakan web service a
 
 ### Animasi Cara Kerja API
 
-[![video](https://i3.ytimg.com/vi/embed/s7wmiS2mSXY/maxresdefault.jpg)](https://www.youtube.com/embed/s7wmiS2mSXY)
+[![video](https://i3.ytimg.com/vi/s7wmiS2mSXY/maxresdefault.jpg)](https://www.youtube.com/embed/s7wmiS2mSXY)
