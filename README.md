@@ -26,7 +26,6 @@ jadi web api merupakan sebuah sistem perangkat lunak yang dibuat untuk mendukung
 
 ### what learn in this series ?
 
-<hr>
 - Apa itu API ?
 - JSON
   - membuat dan mengakses
